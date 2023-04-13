@@ -18,9 +18,7 @@ function Menu(props){
                         <li className="nav-item">
                         <NavLink to={`/create`} className="navbar-brand">Create</NavLink>
                         </li>
-                        <li className="nav-item">
-                        <NavLink to={`/update`} className="navbar-brand">Update</NavLink>
-                        </li>
+                        
 
                     </ul>
                 </div>
